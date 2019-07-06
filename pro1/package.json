@@ -1,0 +1,15 @@
+{
+  "name": "pro1",
+  "version": "1.0.0",
+  "description": "\"this is testing project\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"error",
+    "email\""
+  ],
+  "author": "\"james joel\"",
+  "license": "ISC"
+}
